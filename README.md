@@ -1,17 +1,19 @@
-- 👋 Hi, I’m @raykel
-- 👀 I’m interested in  phishing 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 ¡Hola! Soy ELIAS
 
-<!---
-braykel/braykel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+### 🚀 Sobre mí
+Soy un desarrollador en formación, apasionado por la tecnología y la programación. Actualmente estoy aprendiendo y creando proyectos prácticos, especialmente en **Python**, para resolver problemas reales.
 
+### 💻 Lo que hago
+- 🚛 **Sistema de gestión de pasajes y transporte** (mi proyecto principal): registro de pasajeros, consulta de DNI, asignación de asientos, generación de boletas, control de usuarios y más.
+- 🔧 Aprendiendo **Python, Tkinter, APIs, Git & GitHub**
+- 📱 Explorando desarrollo de aplicaciones y automatización
 
+### 🤝 Busco
+- Mejorar mis habilidades de programación
+- Colaborar en proyectos interesantes
+- Aprender de la comunidad
 
+### 📬 Contacto
+- GitHub: @braykel
 
-
-
-Tamo ready 
---->
+> 💡 *"La práctica hace al programador."*

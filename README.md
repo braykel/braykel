@@ -3,11 +3,8 @@
 ### 🚀 Sobre mí
 Soy un desarrollador en formación, apasionado por la tecnología y la programación. Actualmente estoy aprendiendo y creando proyectos prácticos, especialmente en **Python**, para resolver problemas reales.
 
-### 💻 Lo que hago
-- 🚛 **Sistema de gestión de pasajes y transporte** (mi proyecto principal): registro de pasajeros, consulta de DNI, asignación de asientos, generación de boletas, control de usuarios y más.
 - 🔧 Aprendiendo **Python, Tkinter, APIs, Git & GitHub**
 - 📱 Explorando desarrollo de aplicaciones y automatización
-
 
 ### 🛠️ Tecnologías que uso
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -20,7 +17,15 @@ Soy un desarrollador en formación, apasionado por la tecnología y la programac
 - Colaborar en proyectos interesantes
 - Aprender de la comunidad
 
+### 📊 Mis estadísticas
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=braykel&show_icons=true&theme=radical&hide=contribs,prs)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=braykel&layout=compact&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=braykel&theme=radical)](https://git.io/streak-stats)
+
 ### 📬 Contacto
-- GitHub: @braykel
+- GitHub: [@braykel](https://github.com/braykel)
+
+---
 
 > 💡 *"La práctica hace al programador."*
